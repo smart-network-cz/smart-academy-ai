@@ -35,7 +35,7 @@ V aplikaci claude.ai (chat) nahraješ složku `skills/smart-academy` jako ZIP p�
 
 Každý krok má kontrolu „hotovo, když“. Dokud ji nevidíš, nepokračuj.
 
-1. **Účty.** Založ si tři účty a na všech zapni dvoufázové ověření:
+1. **Účty.** Založ si tři účty. Na GitHubu a Cloudflare zapni dvoufázové ověření, u Claude ho zapni na svém účtu Google, pokud se přes něj přihlašuješ:
    - claude.ai s plánem Pro, protože Free neobsahuje Claude Code,
    - github.com s plánem Free,
    - dash.cloudflare.com s plánem Free.
