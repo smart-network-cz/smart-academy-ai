@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/banner.png" alt="Smart Academy: skill pro Claude Code od Smart Network" width="100%"></p>
+
 # Smart Academy: AI v běžném provozu firmy
 
 Skill pro Claude Code ze Smart Academy (Brno, 11. 11. 2026) a postup nastavení, se kterým odcházíš z večera.
