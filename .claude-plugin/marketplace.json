@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "smart-academy-ai",
+  "description": "Skill ze Smart Academy: stručné odpovědi a nejjednodušší řešení, které funguje.",
+  "owner": { "name": "Smart Network", "url": "https://www.smart-network.cz" },
+  "plugins": [
+    {
+      "name": "smart-academy",
+      "description": "Stručně, nejjednodušší řešení, hotovo = ověřené, tajemství mimo kód.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

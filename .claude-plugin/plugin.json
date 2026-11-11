@@ -1,0 +1,7 @@
+{
+  "name": "smart-academy",
+  "version": "1.0.0",
+  "description": "Stručně, nejjednodušší řešení, hotovo = ověřené, tajemství mimo kód.",
+  "author": { "name": "Smart Network", "url": "https://www.smart-network.cz" },
+  "hooks": "./hooks/hooks.json"
+}
