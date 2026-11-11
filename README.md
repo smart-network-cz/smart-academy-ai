@@ -17,7 +17,7 @@ Celá pravidla jsou v [skills/smart-academy/SKILL.md](skills/smart-academy/SKILL
 V Claude Code (aplikace Claude Desktop, záložka Code, nebo terminál) napiš:
 
 ```
-/plugin marketplace add serverosobny-cloud/smart-academy-ai
+/plugin marketplace add smart-network-cz/smart-academy-ai
 /plugin install smart-academy@smart-academy-ai
 ```
 
@@ -25,7 +25,7 @@ Při instalaci vyber User scope. Potom začni nové sezení. Pravidla se načtou
 
 Jiná možnost je napsat Claudovi:
 
-> Nainstaluj mi skill z https://github.com/serverosobny-cloud/smart-academy-ai do ~/.claude/skills
+> Nainstaluj mi skill z https://github.com/smart-network-cz/smart-academy-ai do ~/.claude/skills
 
 V aplikaci claude.ai (chat) nahraješ složku `skills/smart-academy` jako ZIP přes Customize > Skills. Je potřeba mít zapnuté spouštění kódu.
 
